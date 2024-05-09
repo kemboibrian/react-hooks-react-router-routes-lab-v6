@@ -1,16 +1,8 @@
-import { useEffect, useState } from "react";
+import React from "react";
+import { directors } from "../data";
 
 function Directors() {
-  return (
-    <>
-      <header>
-        {/* What component should go here? */}
-      </header>
-      <main>
-        {/* Director info here! */}
-      </main>
-    </>
-  );
-};
+  return <div>{/*{code here}*/}</div>;
+}
 
 export default Directors;

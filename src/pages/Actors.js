@@ -1,16 +1,8 @@
-import { useEffect, useState } from "react";
+import React from "react";
+import { actors } from "../data";
 
 function Actors() {
-  return (
-    <>
-      <header>
-        {/* What component should go here? */}
-      </header>
-      <main>
-        {/* Actor info here! */}
-      </main>
-    </>
-  );
-};
+  return <div>{/*{code here}*/}</div>;
+}
 
 export default Actors;
